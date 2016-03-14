@@ -1,0 +1,28 @@
+name: maliwi is marc williams
+favicon: null
+layout_spectrum: 0.6164834348019212
+typography_spectrum: 0.09858789830468595
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6938683253247291
+  lightness: 0.3754741526208818
+  saturation: 0.9694877923466265
+  rhythmicContrast: 0.871362647973001
+purpose: []
